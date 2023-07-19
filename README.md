@@ -1,3 +1,4 @@
+
 # 0x1B. C - Sorting algorithms & Big O
 
 CAlgorithmData structure
@@ -67,7 +68,6 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 **There should be one project repository per group. If you clone/fork/whatever a project repository with the same name before the second deadline, you risk a 0% score.**
 
-## More Info
 
 ### Data Structure and Functions
 
