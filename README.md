@@ -1,88 +1,3 @@
-[
-
-](https://intranet.alxswe.com/)
-
--   [
-    
-    My Planning
-    
-    ](https://intranet.alxswe.com/planning/me)
--   [
-    
-    Projects
-    
-    ](https://intranet.alxswe.com/projects/current)
--   [
-    
-    QA Reviews I can make
-    
-    ](https://intranet.alxswe.com/corrections/to_review)
--   [
-    
-    Evaluation quizzes
-    
-    ](https://intranet.alxswe.com/dashboards/my_current_evaluation_quizzes)
-
-___
-
--   [
-    
-    Curriculums
-    
-    ](https://intranet.alxswe.com/dashboards/my_curriculums)
--   [
-    
-    Concepts
-    
-    ](https://intranet.alxswe.com/concepts)
--   [
-    
-    Conference rooms
-    
-    ](https://intranet.alxswe.com/dashboards/video_rooms)
--   [
-    
-    Servers
-    
-    ](https://intranet.alxswe.com/servers)
--   [
-    
-    Sandboxes
-    
-    ](https://intranet.alxswe.com/user_containers/current)
--   [
-    
-    Video on demand
-    
-    ](https://intranet.alxswe.com/dashboards/videos)
-
-___
-
--   [
-    
-    Peers
-    
-    ](https://intranet.alxswe.com/users/peers)
--   [
-    
-    Captain's Logs
-    
-    ](https://intranet.alxswe.com/dashboards/my_captain_log)
-
-___
-
--   [
-    
-    Slack
-    
-    ](https://alx-students.slack.com)
-    
-    [
-    
-    My Profile
-    
-    ](https://intranet.alxswe.com/users/my_profile)
-    
 
 # 0x1B. C - Sorting algorithms & Big O
 
@@ -153,7 +68,6 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 **There should be one project repository per group. If you clone/fork/whatever a project repository with the same name before the second deadline, you risk a 0% score.**
 
-## More Info
 
 ### Data Structure and Functions
 
