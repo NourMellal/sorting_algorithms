@@ -28,6 +28,7 @@ int devider(int *array, int start, int end, size_t size)
 				print_array(array, size);
 		}
 	}
+
 	i++;
 	if (array[i] != array[end])
 	{
@@ -55,8 +56,8 @@ void Lomuto_quick_sort(int *array, int start, int end, size_t size)
 		return;
 
 	pivot = devider(array, start, end, size);
-	Lomuto_quick_sort(array, pivot + 1, end, size);
 	Lomuto_quick_sort(array, start, pivot - 1, size);
+	Lomuto_quick_sort(array, pivot + 1, end, size);
 }
 
 /**
