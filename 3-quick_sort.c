@@ -21,13 +21,11 @@ int devider(int *array, int start, int end, size_t size)
 		if (array[j] < array[end])
 		{
 			i++;
+			tmp = array[i];
+			array[i] = array[j];
+			array[j] = tmp;
 			if (j != i)
-			{
-				tmp = array[i];
-				array[i] = array[j];
-				array[j] = tmp;
 				print_array(array, size);
-			}
 		}
 	}
 	i++;
